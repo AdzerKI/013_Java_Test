@@ -1,4 +1,4 @@
-package org.example;
+package homework_one_tests;
 
 
 import static org.assertj.core.api.Assertions.*;

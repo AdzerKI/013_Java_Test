@@ -1,14 +1,13 @@
-package homeworkTwo;
+package homework_two_tests;
 
-import org.example.HomeworkTwo.Car;
-import org.example.HomeworkTwo.Motorcycle;
-import org.example.HomeworkTwo.Vehicle;
+import org.example.homework_two.Car;
+import org.example.homework_two.Motorcycle;
+import org.example.homework_two.Vehicle;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
-class VehicleTest {
+class HomeworkTwoTests {
     // Проверить, что экземпляр объекта Car также является экземпляром
     // транспортного средства (используя оператор instanceof).
     @Test

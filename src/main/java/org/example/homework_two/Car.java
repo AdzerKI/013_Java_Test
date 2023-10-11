@@ -1,4 +1,4 @@
-package org.example.HomeworkTwo;
+package org.example.homework_two;
 
 public class Car extends Vehicle {
     private String company;

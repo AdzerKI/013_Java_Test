@@ -1,4 +1,4 @@
-package org.example.HomeworkTwo;
+package org.example.homework_two;
 
 public abstract class Vehicle {
     private String company;
