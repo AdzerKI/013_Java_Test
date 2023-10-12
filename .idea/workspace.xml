@@ -5,48 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e457d062-b553-4746-baea-6df277f52f4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework_5_tests/answers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seminar_5_tests/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seminar_5_tests/SeleniumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seminar_5_tests/SeleniumTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homework_6/ListsCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework_6_tests/ListsCompareTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homework_three/HomeworkThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homework_3/HomeworkThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homework_two/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homework_2/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homework_two/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homework_2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homework_two/Motorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homework_2/Motorcycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homework_two/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homework_2/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/book/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/book/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/book/BookRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/book/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/book/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/book/InMemoryBookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/book/InMemoryBookRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/card/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/card/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/card/PaymentForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/card/PaymentForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/database/DataProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/database/DataProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/database/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/hotel/BookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/hotel/BookingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/hotel/HotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/hotel/HotelService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/message/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/message/MessageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/message/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/message/NotificationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/weather/WeatherReporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/weather/WeatherReporter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_four/weather/WeatherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_4/weather/WeatherService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_three/SomeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_3/SomeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_three/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_3/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar_three/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar_3/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homework_four_tests/BookServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework_4_tests/BookServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homework_four_tests/answer1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework_4_tests/answer1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homework_one_tests/HomeworkOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework_1_tests/HomeworkOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homework_three_tests/HomeThreeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework_3_tests/HomeThreeTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homework_two_tests/HomeworkTwoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework_2_tests/HomeworkTwoTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seminar_four_tests/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seminar_4_tests/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seminar_four_tests/book/BookServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seminar_4_tests/book/BookServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seminar_four_tests/card/PaymentFormTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seminar_4_tests/card/PaymentFormTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seminar_four_tests/database/DataProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seminar_4_tests/database/DataProcessorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seminar_four_tests/hotel/BookingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seminar_4_tests/hotel/BookingServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seminar_four_tests/message/NotificationServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seminar_4_tests/message/NotificationServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seminar_four_tests/weather/WeatherReporterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seminar_4_tests/weather/WeatherReporterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seminar_three_tests/SomeServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seminar_3_tests/SomeServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seminar_5_tests/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seminar_5_tests/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seminar_5_tests/SeleniumTest2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +79,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest.testSeleniumURL">
+  <component name="RunManager" selected="JUnit.ListsCompareTests">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="one" />
@@ -154,34 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.seminar_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.seminar_5.Main" />
-      <module name="one" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.seminar_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="one" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework_4_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="homework_four_tests" />
-      <option name="MAIN_CLASS_NAME" value="homework_4_tests.BookServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HomeThreeTests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="one" />
       <extension name="coverage">
@@ -204,6 +139,52 @@
       <option name="MAIN_CLASS_NAME" value="homework_3_tests.HomeThreeTests" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsCompareTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="one" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_6_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.example.homework_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework_6_tests" />
+      <option name="MAIN_CLASS_NAME" value="homework_6_tests.ListsCompareTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsCompareTests.UTestAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="one" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_6_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework_6_tests" />
+      <option name="MAIN_CLASS_NAME" value="homework_6_tests.ListsCompareTests" />
+      <option name="METHOD_NAME" value="UTestAverage" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -242,19 +223,19 @@
     <list>
       <item itemvalue="Application.org.example.Main" />
       <item itemvalue="Application.SeleniumTest2" />
-      <item itemvalue="Application.org.example.seminar_5.Main" />
       <item itemvalue="JUnit.HomeThreeTests" />
-      <item itemvalue="JUnit.BookServiceTest" />
+      <item itemvalue="JUnit.ListsCompareTests" />
+      <item itemvalue="JUnit.ListsCompareTests.UTestAverage" />
       <item itemvalue="JUnit.MainTest" />
       <item itemvalue="JUnit.MainTest.testSeleniumURL" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ListsCompareTests" />
+        <item itemvalue="JUnit.ListsCompareTests.UTestAverage" />
         <item itemvalue="JUnit.MainTest.testSeleniumURL" />
         <item itemvalue="Application.SeleniumTest2" />
         <item itemvalue="JUnit.MainTest" />
-        <item itemvalue="Application.org.example.seminar_5.Main" />
-        <item itemvalue="JUnit.BookServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +248,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697008886862</updated>
       <workItem from="1697008888134" duration="19488000" />
-      <workItem from="1697091488413" duration="13482000" />
+      <workItem from="1697091488413" duration="18878000" />
     </task>
     <servers />
   </component>
@@ -293,6 +274,9 @@
     <SUITE FILE_PATH="coverage/one$SomeServiceTest.ic" NAME="SomeServiceTest Coverage Results" MODIFIED="1697048799602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>seminar_three_tests.*</FILTER>
       <FILTER>org.example.seminar_three.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/one$ListsCompareTests.ic" NAME="ListsCompareTests Coverage Results" MODIFIED="1697138256706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework_6_tests.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/one$HomeThreeTests.ic" NAME="HomeThreeTests Coverage Results" MODIFIED="1697051721832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.example.homework_three.*</FILTER>

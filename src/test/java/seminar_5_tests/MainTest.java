@@ -73,7 +73,6 @@ class MainTest {
         WebElement searchBox = webDriver.findElement(By.name("q"));
         searchBox.sendKeys("Selenium");
         searchBox.submit();
-        webDriver.findElement(By.xpath("//*[text() = 'https://www.selenium.dev']"));
-        webDriver.quit();
+        webDriver.findElement(By.xpath("//*[text() = 'https://www.selenium.dev']"));        webDriver.quit();
     }
 }
